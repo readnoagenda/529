@@ -6,17 +6,23 @@ jd;I've got things to do.
 
 ac;That's right. How old is she? What a minute let me guess.. is she nineteen or twenty?
 
-jd;AH! You hit it!
+jd;AH! Well, you hit it!
 
 ac;Both?
-;jd: She's nineteen or twenty!
-;Nineteen or twenty!
+
+jd;She's nineteen or twenty!
+
+ac;Nineteen or twenty!
 
 jd;She's nineteen.
 
-ac;Ah. Wow. Ah how fast it goes, John!
+ac;Ah. Wow.
+;Ah how fast it goes, John!
 
 jd;Yeah. Yip!
 ;Now what?
 
-ac;I don't know. For me it hasn't ended. My kid's gonna be twenty three at the end of August.
+ac;I don't know.
+;It... Don't worry... Doesn't...
+;For me it hasn't ended.
+;You know, my kid's gonna be twenty-three at the end of August.
