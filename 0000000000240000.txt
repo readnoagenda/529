@@ -1,0 +1,13 @@
+ac;Then on ....
+
+jd;How many tubes are in this thing?
+
+ac;Zero.
+
+jd;Oh. Okay.
+
+ac;But we are replicating tube design that's for sure. With dual rail power. It has an AC power adapter.
+
+jd;Will it do two-twenty?
+
+ac;Yeah. Of course it will do two-twenty - with a separate adapter. You can't .. this is why all those companies do DC adapters because they are cheap. I have learned a lot. You wind up doing a lot of balancing and biasing internally if you use DC power
