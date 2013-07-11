@@ -1,0 +1,30 @@
+{
+    "bytes_total": 123595056, 
+    "site_name": "Read No Agenda", 
+    "links": [
+        {
+            "url": "http://www.noagendashow.com/", 
+            "title": "No Agenda Show"
+        }, 
+        {
+            "url": "http://529.nashownotes.com/", 
+            "title": "Episode 529 Shownotes"
+        }, 
+        {
+            "url": "http://readnoagenda.com/wiki/Style_guidelines", 
+            "title": "Style Guidelines"
+        }, 
+        {
+            "url": "http://readnoagenda.com/stats/transcript_529.readnoagenda.com.html", 
+            "title": "Transcript Stats"
+        }, 
+        {
+            "url": "http://dvorak.org/na/", 
+            "title": "DONATE to No Agenda"
+        }
+    ], 
+    "title": "No Agenda Episode 529: \"No Coup\" (2013-07-11)", 
+    "site_url": "http://readnoagenda.com/", 
+    "audio_url": "http://mp3s.nashownotes.com/NA-529-2013-07-11-Final.mp3", 
+    "duration": 10296000
+}
