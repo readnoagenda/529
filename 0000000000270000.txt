@@ -1,9 +1,15 @@
-ac;instead of having your own power on board. So we've got dual rail .. the whole is .. it's high end. It's gonna be great once it's done which will be maybe, maybe sometime near Christmas. Who knows.
+ac;instead of having your own power on board.
+;So we've got dual rail .. the whole is .. it's high end.
+;It's gonna be great once it's done which will be maybe, maybe sometime near Christmas.
+;Who knows.
 
 jd;What do you think it would sell for?
 
-ac;Oh it's going to have to be four-hundred dollars. It can't do it for anything less.
+ac;Oh it's going to have to be four-hundred dollars.
+;It can't do it for anything less.
 
 jd;Three ninety-nine, ninety-nine?
 
-ac;No. No, I think it's going to be ... In fact I would even say it would have to be four ninety-nine, ninety-nine. But you can do, you can replicate the best podcast in the universe with this thing. I mean it's set up to do it.
+ac;No. No, I think it's going to be ... In fact I would even say it would have to be four ninety-nine, ninety-nine.
+;But you can do, you can replicate the best podcast in the universe with this thing.
+;I mean it's set up to do it.
