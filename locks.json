@@ -1,26 +1,13 @@
 {
     "snippet": {
-        "270000": {
-            "timestamp": 1373666145.462582, 
-            "secret": "BAFvwiSLTLHYflYe"
-        }, 
-        "240000": {
-            "timestamp": 1373666145.462582, 
-            "secret": "ewpwIXOEmAxeiHyi"
+        "1650000": {
+            "timestamp": 1373666145.119481, 
+            "secret": "KCmWLqMBPhSVVcOO"
         }, 
         "1500000": {
             "timestamp": 1373665188.083124, 
             "secret": "JeyyCoecHhnPjjmO"
-        }, 
-        "1650000": {
-            "timestamp": 1373666145.119481, 
-            "secret": "KCmWLqMBPhSVVcOO"
         }
     }, 
-    "review": {
-        "240000": {
-            "timestamp": 1373666145.462582, 
-            "secret": "UvDMilDBYFAaSBsf"
-        }
-    }
+    "review": {}
 }
