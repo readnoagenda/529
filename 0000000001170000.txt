@@ -1,0 +1,17 @@
+c1;Do you have a specific National Security concern that you would like to allow this to?
+
+cr;That is the question?
+
+c1;Well yes that is the question. We are inviting you to raise. And then we don't guarantee that we will agree with their interpretation. What we are saying is we like to hear that.
+
+cr;And you heard it?
+
+c1;Actually we haven't.
+
+cr;And did they say we have National Security concerns and ...
+
+c1;Actually we haven't had specific National Security concerns about anything.
+
+cr;They never expressed any National security specific concerns?
+
+c1;No.
