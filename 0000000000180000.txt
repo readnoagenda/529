@@ -4,7 +4,8 @@ ac;Hold on! Hold on!
 
 jd;Except we did a clip show for Christmas a couple of years ago.
 
-ac;And when I got married everyone gave me a show off. Remember that?
+ac;And when I got married everyone gave me a show off.
+;Remember that?
 
 jd;I don't remember that.
 
@@ -16,6 +17,7 @@ ac;Three, I think that's when we did three-hundred .. I don't remember .. I don'
 
 jd;Yeah but we actually did a show.
 
-ac;No, no we still have a show, yeah, of course. And we'll... It's not like we are going to go dark, right?
+ac;No, no we still have a show, yeah, of course.
+;And we'll... It's not like we are going to go dark, right?
 
 jd;No. We won't do that!
