@@ -1,11 +1,19 @@
-jd;Probably we should also mention.. yeah. We have a couple of issues with a couple of missing shows ...
+jd;Probably we should also mention.. yeah.
+;We have a couple of issues with a couple of missing shows ...
 
-ac;Well not really missing shows because we are going to fill them up with some outstanding content. There's no doubt about it.
+ac;Well not really missing shows because we are going to fill them up with some outstanding content.
+;There's no doubt about it.
 
 jd;Yeah.
 
-ac;But we have decided to take two shows off this year. During the summer. Two whole shows.
+ac;But we have decided to take two shows off this year.
+;During the summer.
+;Two whole shows.
 
-jd;Hey wait a minute. Let's stop for a second. I want to point out to everybody OH NO! I want to point out to everybody that we have been doing the show for close to six years. Our six year anniversary is in October.
+jd;Hey wait a minute.
+;Let's stop for a second.
+;I want to point out to everybody OH NO!
+;I want to point out to everybody that we have been doing the show for close to six years.
+;Our six year anniversary is in October.
 
 ac;Coming up!
