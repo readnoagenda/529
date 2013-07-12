@@ -1,10 +1,14 @@
 ac;Didn't we decide to put ...
 
-jd;No no no do not go dark. Oh! Show's off the air! I'm done!
+jd;No no no do not go dark.
+;Oh, show's off the air! I'm done!
 
-ac;We can't go dark! So Friday after .... so Thursday we have the show next week. Then Friday Ms. Micky and I haul off to Amsterdam. Then on Sunday I do the show from Amsterdam using the new ultimate podcast device which I ...
+ac;We can't go dark!
+;So Friday after .... so Thursday we have the show next week.
+;Then Friday Ms. Micky and I haul off to Amsterdam.
+;Then on Sunday I do the show from Amsterdam using the new ultimate podcast device which I ...
 
-jd;Yes! This will be a good field test!
+jd;Yes, this will be a good field test!
 
 ac;Yeah. So I have been on it for the past two shows and I am still kinda working on all the fine tuning.
 
