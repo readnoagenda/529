@@ -1,4 +1,5 @@
-ac;and she's, you know, it doesn't end! Are you charging these kids rent yet?
+ac;and she's, you know, it doesn't end!
+;Are you charging these kids rent yet?
 
 jd;She's getting pretty old.
 
@@ -12,7 +13,8 @@ jd;So uh
 
 ac;Yeah...
 
-jd;No I don't charge the kids rent - what do you think is an ogre? Pay Rent Or You're Getting Out!
+jd;No I don't charge the kids rent - what do you think is an ogre?
+;Pay Rent Or You're Getting Out!
 
 ac;Yeah. That's what my parents did and it took me three weeks.
 
