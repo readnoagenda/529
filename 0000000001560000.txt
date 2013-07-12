@@ -1,8 +1,8 @@
-c;'Letter from a Venezuelan 4 star hotel?'
+c;'Letter from a, from a  Venezuelan 4 star hotel?'
 
-jd;Wait, first of all we've got a false comparison here.
+jd;Wait, wait, first of all we've got a false comparison here.
 
-ac;Of course. It's Crazy
+ac;Of course. It's Crazy.
 
 jd;He's comparing this guy to Martin Luther King
 
@@ -12,7 +12,7 @@ jd;He's not a whistleblower
 
 ac;No!
 
-jd;What's this guy coming up with this?  What's this guy's name?
+jd;What's this guy coming up with this?  What is this guy's name?
 
 ac;Brett Stevens.  This just shows you the level of quality of journalism in the US.
 
