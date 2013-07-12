@@ -1,16 +1,26 @@
 jd;Okay.
 
-ac;It's a mixer, it's all your process... if you had to buy all of the elements individually? It would be a thousand dollars.
+ac;It's a mixer, it's all your process...
+;If you had to buy all of the elements individually? It would be a thousand dollars.
 
-jd;All right. It sounds like a deal. And it's lightweight and small.
+jd;All right.
+;It sounds like a deal.
+;And it's lightweight and small.
 
-ac;Yes! Oh yeah. Well wait until you see this module. It's like a cigarette pack. That's how small it is.
+ac;Yes!
+;Oh yeah.
+;Well wait until you see this module.
+;It's like a cigarette pack.
+;That's how small it is.
 
 jd;Huh.
 
 ac;So on Monday ...
 
-jd;Does it have tiny knobs? Little tiny knobs?
+jd;Does it have tiny knobs?
+;Little tiny knobs?
 
-ac;Very tiny knobs. But for you we'll make really giant knobs. We'll make a special John system.
+ac;Very tiny knobs.
+;But for you we'll make really giant knobs.
+;We'll make a special John system.
 ;On Monday we go to the South of France to my dear friend, Michele the Gangster
