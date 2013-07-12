@@ -1,14 +1,18 @@
 jd;the house a little bit.
 
-ac;I am not so sure. But he's not doing too well, actually.
+ac;I am not so sure.
+;But he's not doing too well, actually.
 
-jd;Oh well that's been the case since we started doing the show. It's true!
+jd;Oh well that's been the case since we started doing the show.
+;It's true!
 
-ac;It is true. But now he really is not doing so well.
+ac;It is true.
+;But now he really is not doing so well.
 
 jd;Why don't you go say hi to him?
 
-ac;I'm gonna go say hi to him! We're leaving .....
+ac;I'm gonna go say hi to him!
+;We're leaving .....
 
 jd;I am coming to party with you guys!
 
