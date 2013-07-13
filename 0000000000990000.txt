@@ -11,5 +11,3 @@ jd;This is  why he is not guilty!
 ac;Yeah! Of course he is not guilty! It's not him!
 
 jd;I didn't do anything! What am I even doing here?
-
-ac;I just woke up here. I got a headache.
