@@ -2,6 +2,7 @@ ac; Adam Curry
 jd; John C. Dvorak
 cr; Charlie Rose
 ag; Amy Goodman
+gg; Glenn Greenwald
 
 j; Jingle
 x; SFX
