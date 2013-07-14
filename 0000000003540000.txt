@@ -1,6 +1,6 @@
 ac;You said Abby steals Adam's line? What is this?
 
-jd;Abbey steals Adam's line.
+jd;Abby steals Adam's line.
 
 ac;It's a clip I see.
 
