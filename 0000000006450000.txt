@@ -1,0 +1,7 @@
+jd;way a satellite
+
+ac;Hold on, hold on.  Let me just
+
+jd;can pick any of this crap up
+
+ac;Let's say a transmitter and receiver, two transceivers are communicating and they are sending ack.  That would be an acknowledgement packet.  But, if you go past that receiver into the curvature of the earth, into space, so you're essentially behind it..a little bit behind and above it..you can still receive the transmission from the original sender
