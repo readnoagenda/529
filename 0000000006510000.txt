@@ -1,0 +1,15 @@
+jd;It's directional microwave.
+
+ac;Well, I'm receiving directional microwave.  The sending is just..
+
+jd;No you're not.  You're receiving a broadcast
+
+ac;No.  No.  No.
+
+jd;It's not directional.  It's not beamed at you.
+
+ac;It's, it..
+
+jd;From a satellite?  "There's Adam over there in Austin.  Let's aim the satellite directional antenna at him and beam it to him."
+
+ac;If you'd let me finish, the satellite comes over.  It has a footprint, it has a quite narrow footprint and you have about a five minute window to communicate with it.  It's not specifically pointed at me, but
