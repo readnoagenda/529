@@ -1,0 +1,11 @@
+ac;you're just intercepting while it's acking with the other transceiver.  I don't know how much power is going on and how far it would travel, but I'm not going to dismiss it right off the bat.
+
+jd;I am.  It's bull shit.
+
+ac;I'm not so sure.  I've communicated with satellites with my little five watts here.  I mean, you can do quite a bit.
+
+jd;Is it microwave, a little microwave thing?  Directional microwave you are using on your little five watts?
+
+ac;Yeah
+
+jd;It's directional microwave
