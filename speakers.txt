@@ -1,7 +1,6 @@
 ac; Adam Curry
 jd; John C. Dvorak
 cr; Charlie Rose
-gg; Glenn Greenwald
 
 j; Jingle
 x; SFX
