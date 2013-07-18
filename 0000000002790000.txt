@@ -1,5 +1,3 @@
-c2;we cannot get a correct indication of the fuel indication so as a precaution we need to land.
-
 ac;Ok so there's the lie.
 
 jd;There's your forced landing.
