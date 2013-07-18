@@ -10,4 +10,4 @@ ac;Yeah it's just a note that they send - some guy set it up once and they have 
 
 jd;Yeah no I am sure it is some legacy thing that's sitting there and keeps cropping up and they don't - it may be so locked into the code that they can't fix it. That's why they are not responding to my complaints.
 
-ac;So here's what happens. If you have a subscription
+ac;So here's what happens. Is you have a subscription
